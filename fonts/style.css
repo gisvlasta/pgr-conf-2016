@@ -1,0 +1,313 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-z5iv5r');
+	src:url('fonts/icomoon.eot?#iefix-z5iv5r') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-z5iv5r') format('woff'),
+		url('fonts/icomoon.ttf?-z5iv5r') format('truetype'),
+		url('fonts/icomoon.svg?-z5iv5r#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bulb:before {
+	content: "\e600";
+}
+
+.icon-data:before {
+	content: "\e601";
+}
+
+.icon-world:before {
+	content: "\e602";
+}
+
+.icon-book-open:before {
+	content: "\e00b";
+}
+
+.icon-gears:before {
+	content: "\e02b";
+}
+
+.icon-lightbulb:before {
+	content: "\e030";
+}
+
+.icon-layers:before {
+	content: "\e031";
+}
+
+.icon-tools-2:before {
+	content: "\e034";
+}
+
+.icon-global:before {
+	content: "\e052";
+}
+
+.icon-chart:before {
+	content: "\e603";
+}
+
+.icon-chart2:before {
+	content: "\e604";
+}
+
+.icon-chart3:before {
+	content: "\e605";
+}
+
+.icon-chart4:before {
+	content: "\e606";
+}
+
+.icon-chart5:before {
+	content: "\e607";
+}
+
+.icon-cog:before {
+	content: "\e608";
+}
+
+.icon-share:before {
+	content: "\e609";
+}
+
+.icon-layers2:before {
+	content: "\e60a";
+}
+
+.icon-image:before {
+	content: "\e60b";
+}
+
+.icon-earth:before {
+	content: "\e60c";
+}
+
+.icon-paperclip:before {
+	content: "\e60d";
+}
+
+.icon-database:before {
+	content: "\e60e";
+}
+
+.icon-code:before {
+	content: "\e60f";
+}
+
+.icon-logo-github:before {
+	content: "\f092";
+}
+
+.icon-repo-forked:before {
+	content: "\f002";
+}
+
+.icon-search:before {
+	content: "\f02e";
+}
+
+.icon-image2:before {
+	content: "\e90d";
+}
+
+.icon-images:before {
+	content: "\e90e";
+}
+
+.icon-book:before {
+	content: "\e91f";
+}
+
+.icon-books:before {
+	content: "\e920";
+}
+
+.icon-file-picture:before {
+	content: "\e927";
+}
+
+.icon-stack:before {
+	content: "\e92e";
+}
+
+.icon-map:before {
+	content: "\e94b";
+}
+
+.icon-map2:before {
+	content: "\e94c";
+}
+
+.icon-database2:before {
+	content: "\e964";
+}
+
+.icon-search2:before {
+	content: "\e986";
+}
+
+.icon-zoom-in:before {
+	content: "\e987";
+}
+
+.icon-zoom-out:before {
+	content: "\e988";
+}
+
+.icon-cog2:before {
+	content: "\e994";
+}
+
+.icon-pie-chart:before {
+	content: "\e99a";
+}
+
+.icon-stats-dots:before {
+	content: "\e99b";
+}
+
+.icon-stats-bars:before {
+	content: "\e99c";
+}
+
+.icon-stats-bars2:before {
+	content: "\e99d";
+}
+
+.icon-switch:before {
+	content: "\e9b6";
+}
+
+.icon-earth2:before {
+	content: "\e9ca";
+}
+
+.icon-link:before {
+	content: "\e9cb";
+}
+
+.icon-attachment:before {
+	content: "\e9cd";
+}
+
+.icon-embed:before {
+	content: "\ea7f";
+}
+
+.icon-embed2:before {
+	content: "\ea80";
+}
+
+.icon-terminal:before {
+	content: "\ea81";
+}
+
+.icon-share2:before {
+	content: "\ea82";
+}
+
+.icon-twitter:before {
+	content: "\ea91";
+}
+
+.icon-twitter2:before {
+	content: "\ea92";
+}
+
+.icon-twitter3:before {
+	content: "\ea93";
+}
+
+.icon-html5:before {
+	content: "\eadf";
+}
+
+.icon-html52:before {
+	content: "\eae0";
+}
+
+.icon-git:before {
+	content: "\eae2";
+}
+
+.icon-twitter-old:before {
+	content: "\e610";
+}
+
+.icon-share3:before {
+	content: "\e611";
+}
+
+.icon-bird:before {
+	content: "\e612";
+}
+
+.icon-window:before {
+	content: "\e613";
+}
+
+.icon-pictures:before {
+	content: "\e614";
+}
+
+.icon-earth3:before {
+	content: "\e615";
+}
+
+.icon-lamp:before {
+	content: "\e616";
+}
+
+.icon-bar-chart:before {
+	content: "\f080";
+}
+
+.icon-bar-chart-o:before {
+	content: "\f080";
+}
+
+.icon-html53:before {
+	content: "\f13b";
+}
+
+.icon-share-alt:before {
+	content: "\f1e0";
+}
+
+.icon-share-alt-square:before {
+	content: "\f1e1";
+}
+
+.icon-area-chart:before {
+	content: "\f1fe";
+}
+
+.icon-pie-chart2:before {
+	content: "\f200";
+}
+
+.icon-line-chart:before {
+	content: "\f201";
+}
+
+.icon-share4:before {
+	content: "\e617";
+}
+

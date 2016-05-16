@@ -1,0 +1,74 @@
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+}
+
+/* ================================================================================
+Example showing how to change the color/size of the icons:
+.icon-name {
+	font-size: 32px; // works because "width" & "height" were set using em units
+	color: red; // works because "fill" was set to "currentColor"
+}
+================================================================================ */
+
+.icon-book-open {
+	width: 1.3125em;
+}
+
+.icon-gears {
+	width: 1.3125em;
+}
+
+.icon-lightbulb {
+	width: 0.6875em;
+}
+
+.icon-share {
+	width: 0.998046875em;
+}
+
+.icon-layers2 {
+	width: 0.998046875em;
+}
+
+.icon-logo-github {
+	width: 2.7890625em;
+}
+
+.icon-repo-forked {
+	width: 0.75em;
+}
+
+.icon-search {
+	width: 0.9501953125em;
+}
+
+.icon-images {
+	width: 1.125em;
+}
+
+.icon-books {
+	width: 1.125em;
+}
+
+.icon-embed2 {
+	width: 1.25em;
+}
+
+.icon-bar-chart {
+	width: 1.142578125em;
+}
+
+.icon-html53 {
+	width: 0.7861328125em;
+}
+
+.icon-area-chart {
+	width: 1.142578125em;
+}
+
+.icon-line-chart {
+	width: 1.142578125em;
+}
